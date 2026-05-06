@@ -12,7 +12,7 @@ A standalone runnable repository for the FaVChat reproduction built from the ori
 
 ## Installation
 ```bash
-cd FaVChat_final
+cd FaVChat
 bash setup.sh
 ```
 
