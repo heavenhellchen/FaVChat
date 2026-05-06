@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.swp
+*.swo
+.env
+.venv/
+wandb/
+logs/
+log/
+output/
+*.pt
+*.bin
+*.safetensors
+src/r1-v/FaVChat-data/
+src/r1-v/eval_results/
